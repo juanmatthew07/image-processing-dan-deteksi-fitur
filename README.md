@@ -9,6 +9,13 @@ Ini adalah proyek yang mengeksplorasi teknik-teknik fundamental dalam Image Proc
 - **Implementasi Harris Corner Detector:** Mengimplementasikan proses deteksi fitur algoritma Harris Corner Detector.
 - **Custom Non-Maximum Suppression (NMS):** Membuat NMS kustom untuk ekstraksi fitur corner yang lebih akurat.
 
+### Buka Notebook
+
+Proyek ini menggunakan `ipywidgets` yang mungkin tidak tampil di GitHub.
+Anda bisa melihat notebook ini secara penuh dan interaktif langsung di Google Colab.
+
+**[>> Buka Notebook di Google Colab <<](https://colab.research.google.com/drive/1MytUFLRfBzyNH1QCx44wSfYFR0v9m5Et?usp=sharing)**
+
 ## Tools
 - Python
 - OpenCV
